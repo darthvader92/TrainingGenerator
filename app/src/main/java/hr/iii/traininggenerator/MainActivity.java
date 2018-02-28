@@ -1,9 +1,8 @@
 package hr.iii.traininggenerator;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends RoboCustomActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
